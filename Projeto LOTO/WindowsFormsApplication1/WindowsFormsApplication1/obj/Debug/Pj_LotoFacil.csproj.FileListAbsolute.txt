@@ -1,0 +1,16 @@
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Pj_LotoFacil.csprojResolveAssemblyReference.cache
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Pj_LotoFacil.csproj.WindowsFormsApplication1.exe.config
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmPesq.resources
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Pj_LotoFacil.csproj.GenerateResource.Cache
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Report.resources
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+C:\Projeto LOTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.xml

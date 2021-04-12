@@ -1,0 +1,4 @@
+C:\Projeto LOTO\pj_LotoF\pj_LotoF\bin\Debug\pj_LotoF.exe.config
+C:\Projeto LOTO\pj_LotoF\pj_LotoF\obj\Debug\pj_LotoF.csprojResolveAssemblyReference.cache
+C:\Projeto LOTO\pj_LotoF\pj_LotoF\obj\Debug\pj_LotoF.Properties.Resources.resources
+C:\Projeto LOTO\pj_LotoF\pj_LotoF\obj\Debug\pj_LotoF.csproj.GenerateResource.Cache

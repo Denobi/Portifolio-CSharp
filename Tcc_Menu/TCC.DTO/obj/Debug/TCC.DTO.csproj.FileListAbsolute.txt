@@ -1,0 +1,11 @@
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DTO\bin\Debug\TCC.DTO.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DTO\bin\Debug\TCC.DTO.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DTO\obj\Debug\TCC.DTO.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DTO\obj\Debug\TCC.DTO.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DTO\bin\Debug\TCC.DTO.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DTO\obj\Debug\TCC.DTO.csproj.CoreCompileInputs.cache
+D:\Tcc_Menu\TCC.DTO\bin\Debug\TCC.DTO.dll.config
+D:\Tcc_Menu\TCC.DTO\bin\Debug\TCC.DTO.dll
+D:\Tcc_Menu\TCC.DTO\bin\Debug\TCC.DTO.pdb
+D:\Tcc_Menu\TCC.DTO\obj\Debug\TCC.DTO.dll
+D:\Tcc_Menu\TCC.DTO\obj\Debug\TCC.DTO.pdb

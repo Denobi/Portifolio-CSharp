@@ -1,0 +1,19 @@
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DAL.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DAL.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DTO.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DTO.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DAL.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DTO.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.csprojAssemblyReference.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.csproj.CopyComplete
+D:\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DAL.dll.config
+D:\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DAL.dll
+D:\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DAL.pdb
+D:\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DTO.dll
+D:\Tcc_Menu\TCC.DAL\bin\Debug\TCC.DTO.pdb
+D:\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.csprojResolveAssemblyReference.cache
+D:\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.dll
+D:\Tcc_Menu\TCC.DAL\obj\Debug\TCC.DAL.pdb

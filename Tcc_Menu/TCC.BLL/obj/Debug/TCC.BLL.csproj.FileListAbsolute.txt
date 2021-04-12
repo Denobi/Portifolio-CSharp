@@ -1,0 +1,24 @@
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.BLL.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.BLL.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DAL.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DTO.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DAL.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DTO.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.BLL.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DAL.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DTO.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.csprojAssemblyReference.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.csproj.CopyComplete
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.BLL.dll.config
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.BLL.dll
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.BLL.pdb
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DAL.dll
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DTO.dll
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DAL.pdb
+D:\Tcc_Menu\TCC.BLL\bin\Debug\TCC.DTO.pdb
+D:\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.csprojResolveAssemblyReference.cache
+D:\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.dll
+D:\Tcc_Menu\TCC.BLL\obj\Debug\TCC.BLL.pdb

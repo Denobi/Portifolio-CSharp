@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1. SUAS RESPONSABILIDADES
+Seus dados cadastrados:
+Ao criar uma conta na Sistema de compras, você concorda em fornecer informações verdadeiras, completas e atualizadas sobre si mesmo. Caso a Sympla identifique inconsistências ou eventuais riscos em relação ao seu Usuário ou às suas atividades na Sympla e considere necessário validar as informações cadastradas, você se compromete a fornecer as comprovações que lhe forem requisitadas;
+Se tivermos motivos que indiquem que quaisquer informações cadastradas não são verdadeiras, teremos o direito de suspender ou encerrar a sua conta, bem como nos recusar a prover quaisquer de nossos serviços;
+Qualquer erro, atraso, prejuízo ou dano causado devido ao cadastramento de informações incorretas, incompletas ou desatualizadas é de total responsabilidade do Usuário.
+Usuário e senha:
+Você é responsável por manter a confidencialidade de seus dados de Usuário e sua senha, criados no ato de registro com a Sympla. Você é única e exclusivamente responsável por todas as atividades que ocorram sob sua conta e se compromete a notificar-nos imediatamente acerca de quaisquer usos não autorizados de sua conta ou quaisquer outras violações de segurança. A Sympla não será responsável por quaisquer perdas e danos resultantes de acessos não autorizados ou uso de sua conta;
+A titularidade do cadastro é pessoal. Apenas o titular da conta na Sympla poderá ter acesso aos dados relativos à mesma. Ainda, alterações em dados cadastrados somente poderão ser feitas pelo próprio Usuário em sua área logada. A Sympla não tem prerrogativa para fazer esse tipo de alteração, independentemente da razão alegada ou circunstância.
+Publicação e gestão de eventos:
+A Sistema de compras criou a plataforma. O Organizador cadastra o evento e publica seu conteúdo. Ao fazê-lo, o Organizador se compromete a:
+
+Atender os termos das leis anticorrupção brasileiras, em especial a Lei 12.846/2013, comprometendo-se a se abster de qualquer atividade que constitua uma violação das disposições destas leis;
+Publicar eventos ou quaisquer conteúdos que sejam verdadeiros e com informações completas. Assim, é de responsabilidade do Organizador comunicar com exatidão informações como local, data, horário, valores, atrações, serviços oferecidos, contato, política de cancelamento, política de meia-entrada para fins de atendimento do contido na Lei 12.933/13 e Decreto 8.537/2015, restrição de faixa etária e qualquer outra informação que seja relevante para os Compradores ou, ainda, para a validação da realização dos eventos;
+Publicar eventos ou quaisquer conteúdos que o Organizador tenha o direito e capacidade de cumprir. Assim, o Organizador assume que os eventos ou conteúdos publicados têm todos os seus trâmites finalizados junto a atrações, local, patrocinadores, fornecedores, órgãos públicos e qualquer outra parte interessada e que é capaz e irá entregar tudo o que foi anunciado. Além disso, o Organizador confirma que tem direitos sobre o evento ou conteúdo publicado e que não está infringindo nenhuma patente, marca registrada ou direito autoral de qualquer pessoa ou entidade;
+Autorizar desde já que a Sympla entre em contato e solicite junto ao local do evento, fornecedores ou demais partes interessadas informações e documentações que considere necessárias;
+Não agir como qualquer outra pessoa ou entidade. Isso inclui não publicar eventos ou conteúdos caso o Usuário da plataforma seja um promoter, comissário ou afins. Para os promoters oficiais do evento (prévia e devidamente autorizados pelo Organizador) fazerem suas vendas, a Sympla disponibiliza a ferramenta “Afiliados”. Essa ferramenta deve ser utilizada nesses casos desde que o evento oficial seja cadastrado na Sympla pelo Organizador responsável;
+Não publicar eventos ou quaisquer conteúdos que sejam ilegais, racistas, ameaçadores, difamatórios, obscenos, vulgares ou invasivos da privacidade alheia;
+Ter total responsabilidade sobre os links e redirecionamentos postados na descrição da página pública do evento. A Sympla não tem responsabilidade sobre os mesmos e não atesta sua veracidade ou confiabilidade;
+Ser responsável por instruir os Compradores, bem como disponibilizar e divulgar links de acesso em casos de eventos que venham a ocorrer virtualmente;
+Ter total responsabilidade sobre o uso da ferramenta “Fale com o produtor”, respondendo aos Compradores em tempo hábil e sanando eventuais dúvidas;
+Verificar o mailing e se certificar que os endereços eletrônicos são confiáveis. A Sympla possui ferramenta que permite que o Organizador envie convites personalizados por e-mail. Contudo, se verificarmos que o mailing utilizado não é confiável, a Sympla poderá limitar o envio de e-mails do Organizador sem comunicação prévia;
+Cadastrar corretamente e antes do início das vendas os dados para o repasse dos valores arrecadados com as vendas de ingressos. Qualquer equívoco ou atraso no cadastramento desses dados é de inteira responsabilidade do Organizador;
+Zelar pela não ocorrência de fraude nas compras e auxiliar a Sympla na apuração de eventual suspeita de fraude;
+Comunicar imediatamente à Sympla casos de cancelamento de evento, cancelamento de atração, alteração de data, alteração de local ou qualquer outra alteração relevante referente ao seu evento;
+Arcar com o reembolso de todos os Compradores caso o evento, independentemente do motivo, não ocorra, ou mesmo quando este não for entregue em sua plenitude, conforme anunciado. De igual modo é assegurado à Sympla o direito de regresso contra o Organizador por quaisquer valores que seja compelida a pagar aos Compradores em virtude de ação, reclamação ou processo administrativo, seja judicial ou extrajudicial;
+Utilizar a Sympla somente para a comercialização de ingressos/inscrições/contribuições para eventos. A Sympla disponibiliza sua plataforma tendo como único intuito facilitar a venda de ingressos/inscrições/contribuições e a gestão de eventos por parte do Organizador. A plataforma não pode ser utilizada para qualquer outro tipo de comercialização ou transação que não seja de ingressos/inscrições/contribuições para eventos;
+Ser o único e exclusivo responsável pelo evento e conteúdo cadastrado, isentando a Sympla de qualquer responsabilidade sobre o mesmo, bem como por todo e qualquer ato ou fato jurídico que deles decorram, por todos os tributos (em especial Imposto Sobre Serviço de Qualquer Natureza), direitos autorais, contribuições ao ECAD e demais encargos ligados aos eventos, assim como pelo pagamento total do local, funcionários e fornecedores contratados para execução do evento. A Sympla não é uma Organizadora de eventos. Fornecemos a plataforma para que os Organizadores vendam seus ingressos/inscrições/contribuições e gerenciem seus participantes;
+Isentar a Sympla de qualquer dano causado no caso de paralisações, sejam parciais ou totais, dos seus serviços, decorrentes de falta temporária de energia elétrica, de pane nos serviços das concessionárias, de falhas nos serviços oferecidos pela redes telefônicas e outros provedores, inclusive provedores de hospedagem, de greves, tumultos ou quaisquer outros fatos que não estejam diretamente ligados ao serviço. A Sympla também não será responsável por qualquer dano causado por motivo de caso fortuito ou força maior, bem como fato de terceiro;
+Isentar a Sympla de qualquer responsabilidade civil, de natureza moral ou material, inclusive lucros cessantes e danos emergentes, advinda dos atos próprios da produção de eventos. O Organizador fica ciente desde já que, havendo eventual condenação judicial contra a Sympla, essa poderá efetuar imediatamente a cobrança do valor que for obrigada a pagar, abrindo o Produtor mão da necessidade de ajuizamento de ação de regresso. Caso não haja composição amigável e a Sympla seja obrigada a arcar com prejuízos decorrentes de situações advindas de processos judiciais, a Sympla ajuizará ação de regresso contra o Organizador, e esse restará obrigado a arcar com as taxas judiciais, custas e honorários de advogado no valor de 20% (vinte por cento) sobre o valor da causa.
+Se esses compromissos forem desrespeitados, a Sympla poderá suspender ou encerrar a conta do Organizador e recusar a prover quaisquer de nossos serviços.
+
+Compra e utilização de ingressos/inscrições/contribuições:
+A Sympla criou a plataforma e o Comprador a utiliza para comprar os ingressos/inscrições/contribuições. Ao fazê-lo, o Comprador se compromete a:
+
+Inserir dados corretos, completos e atualizados. Caso contrário, a compra poderá ser invalidada e o Comprador, caso queira, terá que fazer uma nova compra, estando sujeito às condições e disponibilidade de ingressos/inscrições/contribuições nesse segundo momento;
+Arcar com os valores cobrados na fatura de cartão de crédito, caso essa seja a forma de pagamento escolhida pelo Comprador. A cobrança poderá vir em nome da Sympla ou do MoIP, nosso processador de pagamentos;
+Arcar com o valor total e integral do boleto e paga-lo até a data do seu vencimento, caso o Comprador opte por esse método de pagamento. Após a data limite de pagamento, o boleto deixa de ser válido para a compra e o ingresso/inscrição/contribuição não estará mais reservado para o Comprador. Além disso, esclarecemos que a Sympla não faz retenção de tributos na fonte e, assim, a cobrança gerada deve ser paga sem nenhum desconto por esse ou qualquer outro motivo;
+Comprar os ingressos/inscrições/contribuições apenas através do domínio sympla.com.br, suas páginas e subdomínios, através do aplicativo Sympla ou em pontos de venda autorizados. A Sympla não se responsabiliza e não atesta a veracidade ou confiabilidade de ingressos/inscrições/contribuições adquiridos via terceiros, outros sites ou qualquer ponto de venda não autorizado;
+Declarar-se ciente que o processador de pagamentos parceiro da Sympla fará a apuração de eventuais fraudes nas transações processadas através de sistema de análise de risco próprio e de parceiros. A análise de um eventual risco da transação é feita com base em padrões históricos, conferência dos dados cadastrais e bases externas, podendo resultar numa probabilidade de que determinada transação seja fraudulenta. Feita a avaliação de risco transacional, a compra poderá ser aprovada ou não, segundo critérios estabelecidos pelo processador de pagamentos. A não aprovação não gerará expectativa de direito, tampouco indenização de qualquer espécie;
+Fornecer todas as informações e documentos que forem solicitados, caso seja necessária alguma validação da compra por parte da Sympla ou de nosso processador de pagamentos;
+Caso tenha adquirido ingressos/inscrições/contribuições utilizando cartão de crédito, ter em mãos na portaria do evento um documento de identidade com foto do titular do cartão ou o cartão utilizado na compra;
+Promover a segurança do ingresso a partir do momento em que ele está em sua posse, não o divulgando ou permitindo o acesso, de nenhuma maneira, de terceiros a ele;
+Arcar com a taxa eventualmente cobrada pela processadora de pagamentos para fins de saque do crédito decorrente do estorno no caso de cancelamento da compra por parte do Comprador;
+Isentar a Sympla de qualquer responsabilidade sobre a realização dos eventos para os quais foram adquiridos ingressos/inscrições/contribuições. A Sympla não é uma Organizadora de eventos. Fornecemos a plataforma para que os Organizadores vendam seus ingressos/inscrições/contribuições e gerenciem seus participantes.
+Se esses compromissos forem desrespeitados, a Sympla poderá suspender ou encerrar a conta do Comprador e se recusar a prover quaisquer de nossos serviços. Os ingressos/inscrições/contribuições comprados também poderão ser invalidados.
+
+2. FORMA DE ENTREGA DOS INGRESSOS
+Os ingressos/inscrições/contribuições comprados através da plataforma Sympla são enviados em formato eletrônico (PDF) ao e-mail indicado pelo Comprador tão logo o pagamento é aprovado. Pagamentos aprovados em tempo real habilitam que os ingressos/inscrições/contribuições também sejam baixados na própria tela de confirmação de compra. O Comprador deve ficar atento, pois o ingresso poderá ser direcionado à caixas aleatórias como “spam”, “social” ou “promoções” do endereço de e-mail utilizado, o que não gerará qualquer tipo de indenização ao Comprador;
+Além das formas de entrega descritas acima, os ingressos/inscrições/contribuições também podem ser acessados na área autenticada do site ou aplicativo. Para isso, o Comprador deve criar um Usuário gratuitamente na Sympla, fornecendo o mesmo e-mail utilizado no ato da compra. O ingresso pode ser acessado na área “Meus Ingressos” do site ou pelo aplicativo da Sympla.
+
+3. DIREITOS AUTORAIS SOBRE O CONTEÚDO ENVIADO
+Ao disponibilizar qualquer conteúdo na nossa plataforma, o Organizador nos concede uma licença não exclusiva e irrevogável para a publicação deste conteúdo;
+O Organizador declara que tem todos os direitos necessários para outorgar esta licença e que o seu conteúdo não viola direitos autorais, patentes, marcas, segredo industrial, direito de propriedade, de representação e autoral ou propriedade intelectual de terceiros, visto que o Organizador é o único e exclusivo responsável pelo evento e pela publicação deste conteúdo. Responsabiliza-se, dessa maneira, perante a Sympla ou eventuais terceiros interessados pelas obrigações assumidas no momento em que passa a utilizar a plataforma Sympla;
+A Sympla poderá monitorar, editar ou remover conteúdos, no todo ou em parte, que não sigam os critérios acima e poderá divulgar o seu conteúdo por qualquer motivo – seja para responder a reclamações de violação de direitos de terceiros, pela segurança de nossos Usuários, por exigência da lei ou por quaisquer outros motivos.</value>
+  </data>
+</root>

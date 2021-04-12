@@ -1,0 +1,12 @@
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCaixa.resources
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\guilh\Downloads\Tcc_Menu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\guilh\Downloads\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\guilh\Downloads\Tcc_Menu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

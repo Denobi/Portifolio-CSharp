@@ -1,0 +1,48 @@
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmCaixa.resources
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.FrmEstoque.resources
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmMenu.resources
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.Properties.Resources.resources
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csproj.GenerateResource.Cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.exe
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.exe.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.exe
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\MySql.Data.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\TCC.BLL.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\TCC.DTO.dll
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\TCC.BLL.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\TCC.DTO.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.pdb
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\TCC.BLL.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\TCC.DTO.dll.config
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csprojAssemblyReference.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csproj.CoreCompileInputs.cache
+C:\Users\Senha com o vendedor\Desktop\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csproj.CopyComplete
+C:\Users\Senha com o vendedor\Desktop\ETEC\TCC_Parte1\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.exe.config
+C:\Users\Senha com o vendedor\Desktop\ETEC\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.exe
+C:\Users\Senha com o vendedor\Desktop\ETEC\TCC_Parte1\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.pdb
+D:\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.exe.config
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.exe
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.pdb
+D:\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.exe
+D:\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.pdb
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csprojResolveAssemblyReference.cache
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmCaixa.resources
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.FrmEstoque.resources
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmMenu.resources
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.Properties.Resources.resources
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csproj.GenerateResource.Cache
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.Frm_Contas.resources
+D:\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmInfo.resources
+D:\Tcc_Menu\Tcc_Menu\bin\Debug\BarcodeLib.dll
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\bin\Debug\Tcc_Menu.exe.config
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.exe
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.pdb
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmInfo.resources
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmCaixa.resources
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.FrmEstoque.resources
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.frmMenu.resources
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.Frm_Contas.resources
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\Tcc_Menu.Properties.Resources.resources
+C:\Users\guilh\Downloads\Tcc_Menu\Tcc_Menu\obj\Debug\TCC.UI.csproj.GenerateResource.Cache

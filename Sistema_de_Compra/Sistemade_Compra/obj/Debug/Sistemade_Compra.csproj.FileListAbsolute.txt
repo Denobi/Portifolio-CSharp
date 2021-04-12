@@ -1,0 +1,49 @@
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.exe
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_login.resources
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.exe
+c:\users\admin\documents\visual studio 2013\Projects\Sistemade_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.pdb
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.exe.config
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.exe
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.pdb
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.csprojResolveAssemblyReference.cache
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Form1.resources
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_CadProd.resources
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_login.resources
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_Menu.resources
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Properties.Resources.resources
+E:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.csproj.GenerateResource.Cache
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.exe
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.pdb
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.dll
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.DirectShow.dll
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.dll
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.xml
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.xml
+E:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.DirectShow.xml
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.exe.config
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.exe
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.pdb
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.exe
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\Sistemade_Compra.pdb
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.dll
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.DirectShow.dll
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.dll
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.xml
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.xml
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\AForge.Video.DirectShow.xml
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.csprojResolveAssemblyReference.cache
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_CadProd.resources
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_login.resources
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Frm_Menu.resources
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.Properties.Resources.resources
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.csproj.GenerateResource.Cache
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\DirectX.Capture.dll
+L:\Sistema_de_Compra\Sistemade_Compra\bin\Debug\DShowNET.dll
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.frmsplash.resources
+L:\Sistema_de_Compra\Sistemade_Compra\obj\Debug\Sistemade_Compra.frm_Etecword.resources
